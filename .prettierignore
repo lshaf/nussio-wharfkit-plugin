@@ -1,0 +1,4 @@
+lib/
+build/
+pnpm-lock.yaml
+test/data/
