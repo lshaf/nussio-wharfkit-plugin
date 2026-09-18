@@ -1,7 +1,7 @@
 {
     "name": "nussio-wharfkit-plugin",
     "description": "Nussio Wallet browser extension as a WalletPlugin for @wharfkit/session.",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "homepage": "https://github.com/lshaf/nussio-wharfkit-plugin",
     "repository": {
         "type": "git",
