@@ -114,7 +114,7 @@ use `fromProviderError` when calling `window.nussio` yourself.
 
 ## Developing
 
-Needs [Make](https://www.gnu.org/software/make/), Node.js 18+ and [pnpm](https://pnpm.io/).
+Needs [Make](https://www.gnu.org/software/make/), Node.js 22+ and [pnpm](https://pnpm.io/).
 
 ```sh
 make            # install and build lib/
